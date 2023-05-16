@@ -1,6 +1,6 @@
 # ReadMe
 
-
+视频展示：https://www.bilibili.com/video/BV1zL4y137rn/
 
 1、code文件夹下为本次实验的源码及Qt工程文件。
 2、请使用Qt5.14.2，构件套件为Desktop Qt 5.14.2 MinGW 32-bit。
