@@ -1,6 +1,8 @@
 # ReadMe
+code: https://github.com/YaelCassini/CA_HW1 <br>
+video: https://www.bilibili.com/video/BV1zL4y137rn/ <br>
+report: https://yaelcassini.github.io/2023/05/16/%E7%BA%BF%E6%80%A7%E6%8F%92%E5%80%BC%E5%92%8C%E7%9F%A2%E9%87%8F%E7%BA%BF%E6%80%A7%E6%8F%92%E5%80%BC%E5%85%B3%E9%94%AE%E5%B8%A7%E5%8A%A8%E7%94%BB/
 
-视频展示：https://www.bilibili.com/video/BV1zL4y137rn/
 
 1、code文件夹下为本次实验的源码及Qt工程文件。
 2、请使用Qt5.14.2，构件套件为Desktop Qt 5.14.2 MinGW 32-bit。
